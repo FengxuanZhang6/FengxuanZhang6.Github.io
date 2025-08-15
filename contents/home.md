@@ -13,4 +13,5 @@ I'm currently pursuing a Doctor of Business Administration (DBA) at the Institut
 
 #### Research Interests  
 Supply Chain Management, Game Theory and Its Applications; 
+
 Deep-Sea Systems Engineering, Marine Resources and Environmental Management.
